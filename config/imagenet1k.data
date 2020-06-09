@@ -1,0 +1,9 @@
+classes=1000
+train=data/imagenet/train.txt
+valid=data/imagenet/val.txt
+test=data/imagenet/test.txt
+names=data/imagenet/imagenet1k.namesmap
+backup=backup/
+eval=imagenet
+top=5
+

@@ -1,0 +1,6 @@
+classes=15
+train=data/dota/train_crop.txt
+valid=data/dota/val_crop.txt
+names=data/dota/dota.names
+backup=backup/
+eval=dota
